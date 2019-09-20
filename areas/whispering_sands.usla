@@ -1,0 +1,25 @@
+name: The Whispering Sands
+
+desc: the enormous desert spanning the center of Al-Fasad.
+
+encounter_table:
+- 1-2: gnoll_outriders
+- 3-4: wyvern_scouts
+- 5-6: human_bandits
+- 7-8: orc_bedouins
+- 9-10: human_bandits
+- 11-12: human_slavers
+- 13-14: wandering_skeletons
+- 15: hungry_gryphon
+- 16: falcons_rest
+- 17: vampire_thrallseekers
+- 18: air_elemental
+- 19: desert_minstrels
+- 20: desert_djinni
+
+encounter_chance: 25%
+
+notes:
+- every 8 hours, there is a 25% chance a new sandstorm will start
+- if there is a sandstorm, every 8 hours there is a 50% chance it will end
+- sandstorm results in fast speed (4mph), disability on perception checks, and a constitution check (DC13) for exhaustion

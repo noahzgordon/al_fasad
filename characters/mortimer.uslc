@@ -1,0 +1,13 @@
+name: Mortimer Clemencio, Spurned Wonder
+
+desc: A lonely wizard living in high comfort in Sahada Oasis. Primarily studies necromancy; professorship rejected by the Nerikka Academy of Applied Magick. Believes in ethical necromancy. Attended secretly by zombie servants.
+
+factions:
+- occult_order_of_the_deep_and_forgotten
+
+quests:
+- gargoyle_study
+
+flavor:
+- WHO DARES CALL UPON THE HOSPITALITY OF MORTIMER CLEMENCIO, SPURNED WONDER?!
+- THE SECRETS OF THE GRAVE ARE BEYOND MERE MORTAL COMPREHENSION!
