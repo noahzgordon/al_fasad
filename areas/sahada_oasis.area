@@ -8,6 +8,12 @@ size: town
 
 government: plutocracy
 
+encounter_table:
+- 1: bandits
+- 2-4: rival_adventurers
+
+encounter_chance: 20%
+
 factions:
 - sahada_trade_authority
 - theives guild

@@ -1,5 +1,7 @@
 name: The Whispering Sands
 
+type: wilderness
+
 desc: the enormous desert spanning the center of Al-Fasad.
 
 encounter_table:
@@ -7,7 +9,7 @@ encounter_table:
 - 3-4: wyvern_scouts
 - 5-6: human_bandits
 - 7-8: orc_bedouins
-- 9-10: human_bandits
+- 9-10: human_bedouins
 - 11-12: human_slavers
 - 13-14: wandering_skeletons
 - 15: hungry_gryphon
@@ -17,7 +19,7 @@ encounter_table:
 - 19: desert_minstrels
 - 20: desert_djinni
 
-encounter_chance: 25%
+encounter_chance: 25% / 8 hours travelling
 
 notes:
 - every 8 hours, there is a 25% chance a new sandstorm will start

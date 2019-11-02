@@ -1,0 +1,23 @@
+name: Port Wonder
+
+type: settlement
+
+size: town
+
+government: plutocracy
+
+factions:
+- elevandrian_empire
+- sahada_trade_authority
+- theives guild
+- occult_order_of_the_deep_and_forgotten
+
+characters:
+- Lex Firestone
+- Henrietta Firestone
+
+flavor:
+
+_desc_
+
+The furthest reaches of the Elevandrian Empire, which kisses the edge of the world. A mercantile hub where you can find anything if you look hard enough and know the right people. Notes for its colorful skyline and, more recently, the shining white walls constructed by Elevandrian royalty to appease the local concern for safety.
