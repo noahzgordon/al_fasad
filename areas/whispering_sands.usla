@@ -2,7 +2,11 @@ name: The Whispering Sands
 
 type: wilderness
 
-desc: the enormous desert spanning the center of Al-Fasad.
+desc: 
+- the enormous desert spanning the center of Al-Fasad.
+- if one listens hard enough they can barely make out whispering in the wind
+- the desert is a flat, endless and barren expanse. massive mounds form in the distance but are constantly torn apart by the winds.
+- you can see a massive sandstorm in the distance to the east.
 
 encounter_table:
 - 1-2: gnoll_outriders
@@ -19,7 +23,7 @@ encounter_table:
 - 19: desert_minstrels
 - 20: desert_djinni
 
-encounter_chance: 25% / 8 hours travelling
+encounter_chance: 6 on d6 / 8 hours travelling
 
 notes:
 - every 8 hours, there is a 25% chance a new sandstorm will start
